@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:s="genero del autor">
+    <libreria>
+        <libro>
+            <titulo>La sombra de los otros</titulo>
+            <autor>
+                <nombre>Margaret</nombre>
+                <apellido1>Atwood</apellido1>
+                <apellido2></apellido2>
+                <genero s="Femenino"/>
+            </autor>
+            <fecha_publicacion>2003</fecha_publicacion>
+            <genero>Distopía</genero>
+            <editorial>McClelland y Stewart</editorial>
+            <ISBN>978-0385491288</ISBN>
+        </libro>
+        <libro>
+            <titulo>El Código Da Vinci</titulo>
+            <autor>
+                <nombre>Dan</nombre>
+                <apellido1>Brown</apellido1>
+                <apellido2></apellido2>
+                <genero s="Masculino"/>
+            </autor>
+            <fecha_publicacion>2003</fecha_publicacion>
+            <genero>Thriller</genero>
+            <editorial>Doubleday</editorial>
+            <ISBN>978-0385504201</ISBN>
+        </libro>
+        <libro>
+            <titulo>El Hobbit</titulo>
+            <autor>
+                <nombre>J.R.R.</nombre>
+                <apellido1>Tolkien</apellido1>
+                <apellido2></apellido2>
+                <genero s="Masculino"/>
+            </autor>
+            <fecha_publicacion>1937</fecha_publicacion>
+            <genero>Fantasía</genero>
+            <editorial>George Allen y Unwin</editorial>
+            <ISBN>978-0345339683</ISBN>
+        </libro>
+        <libro>
+            <titulo>La chica del tren</titulo>
+            <autor>
+                <nombre>Paula</nombre>
+                <apellido1>Hawkins</apellido1>
+                <apellido2></apellido2>
+                <genero s="Femenino"/>
+            </autor>
+            <fecha_publicacion>2015</fecha_publicacion>
+            <genero>Thriller psicológico</genero>
+            <editorial>Riverhead Books</editorial>
+            <ISBN>978-1594633669</ISBN>
+        </libro>
+        <libro>
+            <titulo>El retrato de Dorian Gray</titulo>
+            <autor>
+                <nombre>Oscar</nombre>
+                <apellido1>Wilde</apellido1>
+                <apellido2></apellido2>
+                <genero s="Masculino"/>
+            </autor>
+            <fecha_publicacion>1890</fecha_publicacion>
+            <genero>Ficción</genero>
+            <editorial>Ward Lock y Co</editorial>
+            <ISBN>978-0141439570</ISBN>
+        </libro>
+        <libro>
+            <titulo>1984</titulo>
+            <autor>
+                <nombre>George</nombre>
+                <apellido1>Orwell</apellido1>
+                <apellido2></apellido2>
+                <genero s="Masculino"/>
+            </autor>
+            <fecha_publicacion>1949</fecha_publicacion>
+            <genero>Ciencia ficción</genero>
+            <editorial>Secker y Warburg</editorial>
+            <ISBN>978-0451524935</ISBN>
+        </libro>
+        <libro>
+            <titulo>Los miserables</titulo>
+            <autor>
+                <nombre>Victor</nombre>
+                <apellido1>Hugo</apellido1>
+                <apellido2></apellido2>
+                <genero s="Masculino"/>
+            </autor>
+            <fecha_publicacion>1862</fecha_publicacion>
+            <genero>Novela histórica</genero>
+            <editorial>Garnier</editorial>
+            <ISBN>978-0140444309</ISBN>
+        </libro>
+        <libro>
+            <titulo>Crónica de una muerte anunciada</titulo>
+            <autor>
+                <nombre>Gabriel</nombre>
+                <apellido1>García</apellido1>
+                <apellido2>Márquez</apellido2>
+                <genero s="Masculino"/>
+            </autor>
+            <fecha_publicacion>1981</fecha_publicacion>
+            <genero>Realismo mágico</genero>
+            <editorial>Editorial Norma</editorial>
+            <ISBN>978-0307386608</ISBN>
+        </libro>
+        <libro>
+            <titulo>La casa de los espíritus</titulo>
+            <autor>
+                <nombre>Isabel</nombre>
+                <apellido1>Allende</apellido1>
+                <apellido2></apellido2>
+                <genero s="Femenino"/>
+            </autor>
+            <fecha_publicacion>1982</fecha_publicacion>
+            <genero>Realismo mágico</genero>
+            <editorial>Editorial Plaza y Janés</editorial>
+            <ISBN>978-0452282011</ISBN>
+        </libro>
+        <libro>
+            <titulo>Fahrenheit 451</titulo>
+            <autor>
+                <nombre>Ray</nombre>
+                <apellido1>Bradbury</apellido1>
+                <apellido2></apellido2>
+                <genero s="Masculino"/>
+            </autor>
+            <fecha_publicacion>1953</fecha_publicacion>
+            <genero>Distopía</genero>
+            <editorial>Ballantine Books</editorial>
+            <ISBN>978-1451673319</ISBN>
+        </libro>
+    </libreria>
+</root>
